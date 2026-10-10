@@ -1,0 +1,8 @@
+{
+  "name": "float-tube",
+  "version": "1.0.0",
+  "description": "Always-on-top floating YouTube player",
+  "main": "main.js",
+  "scripts": { "start": "electron ." },
+  "devDependencies": { "electron": "^33.0.0" }
+}
